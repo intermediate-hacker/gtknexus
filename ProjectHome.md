@@ -1,0 +1,2 @@
+A C++ Wrapper for GTK+ designed for speed and efficiency.
+Nexus means a series of connections. Gtk\_Nexus intends to be completely interportable with C GTK+ and its functions can be used completely with GTK+ functions. You can add GTK\_Nexus to your GTK+ code and vice versa.
